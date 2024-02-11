@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>TeamSpeak支持蓝牙耳机进行语音聊天。</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>TeamSpeak使用麦克风进行语音聊天。</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>若要将照片附加到您的反馈中，我们需要访问您的照片库。</string>
+</dict>
+</plist>

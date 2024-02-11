@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%d complaints</key>
+	<string>%d 投诉</string>
+	<key>%i collisions have been resolved for the option "%@"</key>
+	<string>选项“%@”已解决%i个冲突</string>
+	<key>*** You are now talking in channel: [b]UI_CHANNELMARKER[/b]</key>
+	<string>***您现在正在频道中讲话：[b]UI_CHANNELMARKER[/b]</string>
+	<key>*Permanent*</key>
+	<string>*永久*</string>
+	<key>1 complaint</key>
+	<string>1 个投诉</string>
+	<key>A myTeamSpeak Account will allow you to synchronize all your bookmarks and identities across your different devices</key>
+	<string>myTeamSpeak 帐户将允许您在不同设备上同步所有书签和身份</string>
+	<key>Accept</key>
+	<string>接受</string>
+	<key>Account</key>
+	<string>账户</string>
+	<key>Account Created</key>
+	<string>已创建帐户</string>
+	<key>Account edited successfully.</key>
+	<string>已成功编辑帐户。</string>
+	<key>Account successfully created</key>
+	<string>成功创建帐户</string>
+	<key>Action currently not possible due to spam protection. Please wait a few seconds and try again.</key>
+	<string>由于垃圾邮件保护，当前无法执行操作。请等待几秒钟，然后重试。</string>
+	<key>Actions</key>
+	<string>动作</string>
+	<key>Activate Speaker Mode</key>
+	<string>激活扬声器模式</string>
+	<key>Activation License</key>
+	<string>激活许可证</string>
+	<key>Active Badges</key>
+	<string>活动徽章</string>
+	<key>Add As Blocked</key>
+	<string>添加到黑名单</string>
+	<key>Add As Friend</key>
+	<string>添加为好友</string>
+	<key>Add Away Message Preset...</key>
+	<string>添加附加消息预设...</string>
+	<key>Add Badge</key>
+	<string>添加徽章</string>
+	<key>Add Ban Message Preset...</key>
+	<string>添加禁止消息预设...</string>
+	<key>Add Temporary Password</key>
+	<string>添加临时密码</string>
+	<key>Address</key>
+	<string>地址</string>
+	<key>Advanced</key>
+	<string>高级</string>
+	<key>Advanced Settings</key>
+	<string>高级设置</string>
+	<key>After you verified your account, press the Login button.</key>
+	<string>验证帐户后，请按“登录”按钮。</string>
+	<key>All confirmations were reset.</key>
+	<string>所有确认都已重置。</string>
+	<key>All data will be sent anonymized</key>
+	<string>所有数据都将匿名发送</string>
+	<key>Allow Whispers</key>
+	<string>允许密语</string>
+	<key>Always Default</key>
+	<string>始终默认</string>
+	<key>Always send</key>
+	<string>始终发送</string>
+	<key>App update recommended</key>
+	<string>建议应用程序更新</string>
+	<key>App update required</key>
+	<string>需要应用程序更新</string>
+	<key>Applied fallback mode successfully</key>
+	<string>已成功应用回退模式</string>
+	<key>Applied recovery key successfully</key>
+	<string>成功应用恢复密钥</string>
+	<key>Apply</key>
+	<string>申请</string>
+	<key>Apply Recovery Key</key>
+	<string>应用恢复密钥</string>
+	<key>Apply fallback mode failed</key>
+	<string>应用回退模式失败</string>
+	<key>Audio</key>
+	<string>音频</string>
+	<key>Auto Gain Control</key>
+	<string>自动增益控制</string>
+	<key>Automatic</key>
+	<string>自动</string>
+	<key>Available</key>
+	<string>可获得</string>
+	<key>Away In Background</key>
+	<string>离开并到后台</string>
+	<key>Away Message Presets</key>
+	<string>离开消息</string>
+	<key>Badge Code</key>
+	<string>徽章代码</string>
+	<key>Ban</key>
+	<string>封禁</string>
+	<key>Ban Client</key>
+	<string>禁止客户端</string>
+	<key>Ban Details</key>
+	<string>封禁详细信息</string>
+	<key>Ban Information</key>
+	<string>禁止信息</string>
+	<key>Ban List</key>
+	<string>禁止列表</string>
+	<key>Ban Message Presets</key>
+	<string>禁止消息预设</string>
+	<key>Bandwidth</key>
+	<string>流量</string>
+	<key>Bandwith Used</key>
+	<string>已用流量</string>
+	<key>Banned From Server</key>
+	<string>来自的禁止服务器</string>
+	<key>Basic</key>
+	<string>基本</string>
+	<key>Blocked</key>
+	<string>已阻止</string>
+	<key>Bookmark collision</key>
+	<string>书签冲突</string>
+	<key>Bookmarks</key>
+	<string>书签</string>
+	<key>By "%@", Reason:[%@]</key>
+	<string>“%@”，原因：[%@]</string>
+	<key>Bytes</key>
+	<string>字节</string>
+	<key>CLIENT_STARTED_RECORDING</key>
+	<string>“%@”已开始录制</string>
+	<key>CLIENT_STOPPED_RECORDING</key>
+	<string>“%@”已停止录制</string>
+	<key>Can't change email</key>
+	<string>无法更改电子邮件</string>
+	<key>Can't change password</key>
+	<string>无法更改密码</string>
+	<key>Can't change username</key>
+	<string>无法更改用户名</string>
+	<key>Can't get new recovery key</key>
+	<string>无法获取新的恢复密钥</string>
+	<key>Cancel</key>
+	<string>取消</string>
+	<key>Cancel Improving</key>
+	<string>取消更改</string>
+	<key>Cancel Talk Power Request</key>
+	<string>取消通话电源请求</string>
+	<key>Cancel login</key>
+	<string>取消登录</string>
+	<key>Change Email</key>
+	<string>更改电子邮件</string>
+	<key>Change Nickname</key>
+	<string>更改昵称</string>
+	<key>Change Password</key>
+	<string>修改密码</string>
+	<key>Change Username</key>
+	<string>更改用户名</string>
+	<key>Channel Commander</key>
+	<string>频道指挥官</string>
+	<key>Channel Description</key>
+	<string>频道描述</string>
+	<key>Channel Group</key>
+	<string>频道组</string>
+	<key>Channel Info</key>
+	<string>频道信息</string>
+	<key>Channel Messages</key>
+	<string>频道消息</string>
+	<key>Channel Name</key>
+	<string>频道名称</string>
+	<key>Channel Password</key>
+	<string>频道密码</string>
+	<key>Channel Topic</key>
+	<string>频道主题</string>
+	<key>Channel Type</key>
+	<string>频道类型</string>
+	<key>Channel UI_CHANNELMARKER edited successfully</key>
+	<string>成功编辑频道 UI_CHANNELMARKER</string>
+	<key>Channel UI_CHANNELMARKER was created successfully</key>
+	<string>成功创建频道 UI_CHANNELMARKER</string>
+	<key>Channel UI_CHANNELMARKER was deleted</key>
+	<string>频道 UI_CHANNELMARKER 已删除</string>
+	<key>Channel UI_CHANNELMARKER was edited by UI_CLIENTMARKER</key>
+	<string>频道 UI_CHANNELMARKER 由 UI_CLIENTMARKER 编辑</string>
+	<key>Channel UI_CHANNELMARKER was renamed to UI_CHANNELMARKER by UI_CLIENTMARKER</key>
+	<string>频道 UI_CHANNELMARKER 由 UI_CLIENTMARKER 重命名为 UI_CHANNELMARKER</string>
+	<key>Channel group "%@" was assigned to UI_CLIENTMARKER by UI_CHANNELMARKER</key>
+	<string>频道组“%@”由 UI_CHANNELMARKER 分配给 UI_CLIENTMARKER</string>
+	<key>Channel maxclient reached</key>
+	<string>已达到频道最大客户端</string>
+	<key>Channel maxfamily reached</key>
+	<string>已达到频道最大家庭数</string>
+	<key>Channel will be deleted in %@</key>
+	<string>频道将在%@中删除</string>
+	<key>Channel will be deleted in %d days %d hours %d minutes %d seconds</key>
+	<string>频道将在%d天%d小时%d分%d秒后删除</string>
+	<key>Channel will be deleted in %d hours %d minutes %d seconds</key>
+	<string>频道将在%d小时%d分%d秒后删除</string>
+	<key>Channel will be deleted in %d minutes %d seconds</key>
+	<string>频道将在%d分%d秒后删除</string>
+	<key>Channel will be deleted in %d seconds</key>
+	<string>频道将在%d秒内删除</string>
+	<key>Channel will be deleted in %d years %d days %d hours %d minutes %d seconds</key>
+	<string>频道将在%d年%d天%d小时%d分%d秒后删除</string>
+	<key>Channels</key>
+	<string>频道</string>
+	<key>Chat partner disconnected out of view.</key>
+	<string>聊天伙伴已断开连接，无法查看。</string>
+	<key>Choose Username</key>
+	<string>选择用户名</string>
+	<key>Choose a server group</key>
+	<string>选择服务器组</string>
+	<key>Classical Voice Activity Detection mode. A slider adjusts the volume which is required to start transmitting.</key>
+	<string>经典的语音活动检测模式。滑块可调整开始传输所需的音量。</string>
+	<key>Client Address</key>
+	<string>客户地址</string>
+	<key>Client Chat Messages</key>
+	<string>私人消息</string>
+	<key>Client Connection Info</key>
+	<string>客户端连接信息</string>
+	<key>Client Info</key>
+	<string>客户端信息</string>
+	<key>Client banned: UI_CLIENTMARKER</key>
+	<string>客户端被禁止：UI_CLIENTMARKER</string>
+	<key>Client banned: UI_CLIENTMARKER, Reason:"%@"</key>
+	<string>客户端被禁止：UI_CLIENTMARKER，原因：“%@”</string>
+	<key>Clients</key>
+	<string>客户</string>
+	<key>Close</key>
+	<string>关</string>
+	<key>Codec</key>
+	<string>编解码器</string>
+	<key>Codec Quality</key>
+	<string>编解码器质量</string>
+	<key>Collision Resolving</key>
+	<string>冲突解决</string>
+	<key>Collision resolving failed</key>
+	<string>冲突解决失败</string>
+	<key>Collision resolving was succesful</key>
+	<string>冲突解决成功</string>
+	<key>Complain</key>
+	<string>投诉</string>
+	<key>Complaint List</key>
+	<string>投诉清单</string>
+	<key>Configure Badges</key>
+	<string>配置徽章</string>
+	<key>Confirm Delete</key>
+	<string>确认删除</string>
+	<key>Connect</key>
+	<string>连接</string>
+	<key>Connect Confirmation</key>
+	<string>连接确认</string>
+	<key>Connect To Server</key>
+	<string>连接到服务器</string>
+	<key>Connect to '%@'</key>
+	<string>连接到'%@'</string>
+	<key>Connected to server [b]%@[/b]</key>
+	<string>已连接到服务器[b]%@[/b]</string>
+	<key>Connection Error</key>
+	<string>连接错误</string>
+	<key>Connection Time</key>
+	<string>连接时间</string>
+	<key>Connection failed, you are banned</key>
+	<string>连接失败，您被禁止</string>
+	<key>Connection failed: The channel reached its maximum amount of clients. Would you like to join the servers default channel instead?</key>
+	<string>连接失败：频道已达到客户端的最大数量。是否要加入服务器默认频道？</string>
+	<key>Connection failed: The channel reached its maximum amount of family clients. Would you like to join the servers default channel instead?</key>
+	<string>连接失败：频道已达到家庭客户端的最大数量。是否要加入服务器默认频道？</string>
+	<key>Connections</key>
+	<string>连接</string>
+	<key>Contact Type</key>
+	<string>联系人类型</string>
+	<key>Contact setting, else allow</key>
+	<string>允许全部人</string>
+	<key>Contact setting, else deny</key>
+	<string>仅允许联系人</string>
+	<key>Contacts</key>
+	<string>联系人</string>
+	<key>Continue</key>
+	<string>继续</string>
+	<key>Continuous Transmission</key>
+	<string>持续说话</string>
+	<key>Control</key>
+	<string>控制</string>
+	<key>Copyright</key>
+	<string>版权</string>
+	<key>Could not contact server</key>
+	<string>无法连接服务器</string>
+	<key>Could not create account.</key>
+	<string>无法创建帐户。</string>
+	<key>Could not redeem code.</key>
+	<string>无法兑换代码。</string>
+	<key>Could not resolve host name. Make sure you have a network connection.</key>
+	<string>无法解析主机名。请确保您有网络连接。</string>
+	<key>Could not validate myTS ID</key>
+	<string>无法验证myTS ID</string>
+	<key>Create</key>
+	<string>创建</string>
+	<key>Create Channel</key>
+	<string>创建频道</string>
+	<key>Create New Account</key>
+	<string>创建新帐户</string>
+	<key>Create Subchannel</key>
+	<string>创建子频道</string>
+	<key>Creation Time</key>
+	<string>创建时间</string>
+	<key>Current Clients</key>
+	<string>当前客户端</string>
+	<key>Current Password</key>
+	<string>当前密码</string>
+	<key>Current Security Level</key>
+	<string>当前安全级别</string>
+	<key>Custom</key>
+	<string>自定义</string>
+	<key>Custom Name</key>
+	<string>自定义名称</string>
+	<key>Custom Name and Nickname</key>
+	<string>自定义名称和昵称</string>
+	<key>Data Transferred</key>
+	<string>传输的数据</string>
+	<key>Deactivate Speaker Mode</key>
+	<string>停用扬声器模式</string>
+	<key>Default</key>
+	<string>默认</string>
+	<key>Default Channel</key>
+	<string>默认频道</string>
+	<key>Default Channel ID</key>
+	<string>默认频道ID</string>
+	<key>Default Channel Password</key>
+	<string>默认频道密码</string>
+	<key>Delete Channel</key>
+	<string>删除频道</string>
+	<key>Delete Saved Passwords</key>
+	<string>删除保存的密码</string>
+	<key>Delete delay</key>
+	<string>删除延迟</string>
+	<key>Delete delay for temporary channels</key>
+	<string>删除临时频道的延迟</string>
+	<key>Denoise</key>
+	<string>降噪</string>
+	<key>Deny everyone</key>
+	<string>拒绝所有人</string>
+	<key>Description</key>
+	<string>描述</string>
+	<key>Disconnect</key>
+	<string>断开</string>
+	<key>Disconnect All</key>
+	<string>全部断开连接</string>
+	<key>Disconnect Message</key>
+	<string>断开连接消息</string>
+	<key>Display</key>
+	<string>显示</string>
+	<key>Do not send</key>
+	<string>不发送</string>
+	<key>Do not use Account</key>
+	<string>不使用帐户</string>
+	<key>Do you want to delete saved channel passwords?</key>
+	<string>是否要删除保存的频道密码？</string>
+	<key>Do you want to establish a connection to the server "%@"?</key>
+	<string>是否要建立到服务器“%@”的连接？</string>
+	<key>Do you want to start using Push-To-Talk?</key>
+	<string>你想开始使用一键通吗？</string>
+	<key>Do you want to switch your voice mode?</key>
+	<string>你想切换你的语音模式吗？</string>
+	<key>Don't show</key>
+	<string>不显示</string>
+	<key>Duration</key>
+	<string>持续时间</string>
+	<key>EMPTY_CHANNEL_DELETE_CONFIRM</key>
+	<string>您确定要删除频道“%@”吗？</string>
+	<key>Edit Account</key>
+	<string>编辑帐户</string>
+	<key>Edit Bookmark</key>
+	<string>编辑书签</string>
+	<key>Edit Channel</key>
+	<string>编辑频道</string>
+	<key>Edit Contact</key>
+	<string>编辑联系人</string>
+	<key>Edit Folder</key>
+	<string>编辑文件夹</string>
+	<key>Edit Identity</key>
+	<string>编辑标识</string>
+	<key>Edit Nickname</key>
+	<string>编辑昵称</string>
+	<key>Edit Virtual Server</key>
+	<string>编辑虚拟服务器</string>
+	<key>Email</key>
+	<string>电子邮件</string>
+	<key>Email already taken</key>
+	<string>电子邮件已被接收</string>
+	<key>Email edited successfully.</key>
+	<string>电子邮件编辑成功。</string>
+	<key>Email invalid</key>
+	<string>电子邮件无效</string>
+	<key>Email verification needed</key>
+	<string>需要电子邮件验证</string>
+	<key>Email verification needed before you can start using your new account.</key>
+	<string>开始使用新帐户之前需要进行电子邮件验证。</string>
+	<key>Enable synchronization of bookmarks and identities and define if items created on this device are synced automatically.</key>
+	<string>启用书签和标识的同步，并定义是否自动同步在此设备上创建的项目。</string>
+	<key>Encrypted</key>
+	<string>已加密</string>
+	<key>Enforcements</key>
+	<string>强制执行</string>
+	<key>Enter Channel Password</key>
+	<string>输入频道密码</string>
+	<key>Enter Chat Message...</key>
+	<string>输入聊天信息...</string>
+	<key>Enter Complain Reason</key>
+	<string>输入投诉原因</string>
+	<key>Enter Kick Reason</key>
+	<string>输入踢出原因</string>
+	<key>Enter Poke Reason</key>
+	<string>输入戳他一下的原因</string>
+	<key>Enter Talk Power Request Reason</key>
+	<string>输入通话电源请求原因</string>
+	<key>Enter a code</key>
+	<string>输入代码</string>
+	<key>Enter a password</key>
+	<string>输入密码</string>
+	<key>Enter a valid code to redeem your badge.</key>
+	<string>输入有效代码以兑换您的徽章。</string>
+	<key>Enter a valid email</key>
+	<string>输入有效的电子邮件</string>
+	<key>Enter channel name</key>
+	<string>输入频道名称</string>
+	<key>Error connecting to server: %@ [0x%x]</key>
+	<string>连接到服务器时出错：%@[0x%x]</string>
+	<key>Exit</key>
+	<string>退出</string>
+	<key>Extended</key>
+	<string>扩展</string>
+	<key>Failed to connect to server</key>
+	<string>无法连接到服务器</string>
+	<key>Fallback</key>
+	<string>回退</string>
+	<key>Fallback means that all items on the server will be overwritten by your local items</key>
+	<string>回退意味着服务器上的所有项目都将被本地项目覆盖</string>
+	<key>File Transfer</key>
+	<string>文件传输</string>
+	<key>Fill out the missing fields</key>
+	<string>填写缺失的字段</string>
+	<key>First Connected</key>
+	<string>首次连接</string>
+	<key>Folder collision</key>
+	<string>文件夹冲突</string>
+	<key>Friend</key>
+	<string>朋友</string>
+	<key>GENERIC_PERMISSION_ERROR</key>
+	<string>权限不足，无法执行请求。</string>
+	<key>General</key>
+	<string>一般</string>
+	<key>Good</key>
+	<string>好</string>
+	<key>Grant Talk Power</key>
+	<string>授予发言</string>
+	<key>Help</key>
+	<string>帮助</string>
+	<key>Hidden</key>
+	<string>隐藏</string>
+	<key>Hide Avatar</key>
+	<string>隐藏头像</string>
+	<key>Hide Away Message</key>
+	<string>隐藏隐藏消息</string>
+	<key>HockeyApp client crashed</key>
+	<string>TeamSpeak 3 客户端上次崩溃了。</string>
+	<key>Host Blacklisted</key>
+	<string>主机列入黑名单</string>
+	<key>Host Message</key>
+	<string>主机消息</string>
+	<key>Host Msg Mode</key>
+	<string>主机消息模式</string>
+	<key>Host Provider License</key>
+	<string>主机提供商许可证</string>
+	<key>Hybrid</key>
+	<string>混合</string>
+	<key>I acknowledge that I have read and agree to the Terms and Conditions.</key>
+	<string>我承认我已阅读并同意本条款和条件。</string>
+	<key>IN_USE_CHANNEL_DELETE_CONFIRM</key>
+	<string>频道“%@”有用户。你确定要删除它并踢出吗？</string>
+	<key>Identities</key>
+	<string>身份</string>
+	<key>Identity</key>
+	<string>身份</string>
+	<key>Identity Imported</key>
+	<string>导入的标识</string>
+	<key>Identity collision</key>
+	<string>身份冲突</string>
+	<key>Idle Time</key>
+	<string>空闲时间</string>
+	<key>If you are the owner of this server, please check with your TeamSpeak host provider to verify they are using a valid license for your server.</key>
+	<string>如果您是此服务器的所有者，请与您的TeamSpeak主机提供商核实，以验证他们是否使用了您服务器的有效许可证。</string>
+	<key>If you have not synchronized with this client for a while, you may loose some remote items. Only use this as a last resort if you lost your recovery key. Do you really want to start the item fallback and overwrite all your remote items?</key>
+	<string>如果您有一段时间没有与此客户端同步，则可能会丢失一些远程项目。只有当您丢失了恢复密钥时，才可将此作为最后手段。是否确实要启动项目回退并覆盖所有远程项目？</string>
+	<key>If you skip this, you can visit the settings later to perform a new login.</key>
+	<string>如果跳过此项，您可以稍后访问设置以执行新登录。</string>
+	<key>Ignore</key>
+	<string>忽视</string>
+	<key>Ignore Pokes</key>
+	<string>忽略扑克</string>
+	<key>Ignore Private Chat</key>
+	<string>忽略私人聊天</string>
+	<key>Ignore Server/Channel Chat</key>
+	<string>忽略服务器/频道聊天</string>
+	<key>Imported %d identities.</key>
+	<string>已导入%d个标识。</string>
+	<key>Imported 1 identity.</key>
+	<string>导入了1个标识。</string>
+	<key>Improve</key>
+	<string>更改</string>
+	<key>Improvement in progress</key>
+	<string>进展中的更改</string>
+	<key>Improving '%@' canceled</key>
+	<string>更改“%@”已取消</string>
+	<key>Improving '%@' finished</key>
+	<string>更改“%@”已完成</string>
+	<key>Improving Identity</key>
+	<string>提高身份</string>
+	<key>Improving canceled</key>
+	<string>更改已取消</string>
+	<key>Improving finished</key>
+	<string>更改已完成</string>
+	<key>Infinite</key>
+	<string>无限</string>
+	<key>Install</key>
+	<string>安装</string>
+	<key>Installed integrations limit reached.</key>
+	<string>已达到安装的关联限制。</string>
+	<key>Insufficient identity security level for this server. You need to import and use an identity with a minimum security level of %@</key>
+	<string>此服务器的标识安全级别不足。您需要导入并使用最低安全级别为%@的标识</string>
+	<key>Insufficient identity security level for this server. You need to improve your identity security level.</key>
+	<string>此服务器的标识安全级别不足。您需要提高身份安全级别。</string>
+	<key>Integrations</key>
+	<string>关联</string>
+	<key>Invalid License</key>
+	<string>无效的许可证</string>
+	<key>Invalid password</key>
+	<string>密码无效</string>
+	<key>Invoker Cldbid</key>
+	<string>调用程序 CLDBID</string>
+	<key>Invoker Name</key>
+	<string>调用名字</string>
+	<key>Keep Alive</key>
+	<string>保持激活</string>
+	<key>Keep Push-To-Talk</key>
+	<string>保持按键通话</string>
+	<key>Kick From Channel</key>
+	<string>从频道踢出</string>
+	<key>Kick From Server</key>
+	<string>从服务器踢出</string>
+	<key>Kicked From Channel</key>
+	<string>从频道踢出</string>
+	<key>Kicked From Server</key>
+	<string>从服务器踢出</string>
+	<key>LAN License</key>
+	<string>LAN 许可证</string>
+	<key>Label</key>
+	<string>标签</string>
+	<key>Large PTT Button</key>
+	<string>大型 PTT 按钮</string>
+	<key>Last Connected</key>
+	<string>上次连接</string>
+	<key>Last Minute</key>
+	<string>最后一分钟</string>
+	<key>Last Second</key>
+	<string>最后一秒</string>
+	<key>Later</key>
+	<string>以后</string>
+	<key>Level the volume of other users</key>
+	<string>调整其他用户的音量</string>
+	<key>License</key>
+	<string>许可证</string>
+	<key>License agreement</key>
+	<string>许可协议</string>
+	<key>Link your account</key>
+	<string>链接您的帐户</string>
+	<key>Local</key>
+	<string>本地</string>
+	<key>Location</key>
+	<string>位置</string>
+	<key>Logged In</key>
+	<string>已登录</string>
+	<key>Logging In</key>
+	<string>登录</string>
+	<key>Logging in...</key>
+	<string>正在登录...</string>
+	<key>Login</key>
+	<string>登录</string>
+	<key>Login failed</key>
+	<string>登录失败</string>
+	<key>Login successfull</key>
+	<string>登录成功</string>
+	<key>Login with myTeamSpeak Account</key>
+	<string>使用myTeamSpeak帐户登录</string>
+	<key>MODALQUIT_WARN_MSG</key>
+	<string>使用此设置时要小心。没有人能够连接到此服务器！</string>
+	<key>MODALQUIT_WARN_TITLE</key>
+	<string>您已选择MODALQUIT！</string>
+	<key>MSDistributeAppUpdateAvailable</key>
+	<string>应用程序更新可用</string>
+	<key>MSDistributeAppUpdateAvailableMandatoryUpdateMessage</key>
+	<string>此应用程序的开发人员要求您更新到%@%@（%@）。</string>
+	<key>MSDistributeAppUpdateAvailableOptionalUpdateMessage</key>
+	<string>%@%@（%@）可供下载和安装。</string>
+	<key>MSDistributeAskMeInADay</key>
+	<string>一天之内提醒我</string>
+	<key>MSDistributeClose</key>
+	<string>关闭</string>
+	<key>MSDistributeIgnore</key>
+	<string>忽略</string>
+	<key>MSDistributeInAppUpdatesAreDisabled</key>
+	<string>应用内更新已禁用</string>
+	<key>MSDistributeInstallFailedMessage</key>
+	<string>此版本是在专用模式下使用浏览器侧加载或下载的。</string>
+	<key>MSDistributeReinstall</key>
+	<string>重新安装应用程序</string>
+	<key>MSDistributeUpdateNow</key>
+	<string>立即更新</string>
+	<key>MSDistributeViewReleaseNotes</key>
+	<string>查看发行说明</string>
+	<key>MSG_HOST_BLACKLISTED</key>
+	<string>请求的主机已被列入黑名单。前往http://www.teamspeak.com/abuse.php了解更多信息。</string>
+	<key>Make sure to update your TeamSpeak app.</key>
+	<string>请确保更新您的TeamSpeak应用程序。</string>
+	<key>Manage</key>
+	<string>管理</string>
+	<key>Manage Integrations</key>
+	<string>管理关联</string>
+	<key>Max Clients</key>
+	<string>最大客户端数</string>
+	<key>Maximum number of connections with the same identity exceeded</key>
+	<string>超过了具有相同标识的最大连接数</string>
+	<key>Messages</key>
+	<string>信息</string>
+	<key>Microphone Disabled</key>
+	<string>麦克风已禁用</string>
+	<key>Misc</key>
+	<string>杂项</string>
+	<key>Modal Message and Exit</key>
+	<string>模式消息和退出</string>
+	<key>Most likely because of a password reset. Please enter your recovery key to restore the data.</key>
+	<string>很可能是因为密码重置。请输入恢复密钥以恢复数据。</string>
+	<key>Move To Channel</key>
+	<string>移动到频道</string>
+	<key>Music</key>
+	<string>音乐</string>
+	<key>Mute</key>
+	<string>沉默</string>
+	<key>Mute Mic</key>
+	<string>静音麦克风</string>
+	<key>Mute Speakers</key>
+	<string>扬声器静音</string>
+	<key>Name</key>
+	<string>名称</string>
+	<key>Needed Talk Power</key>
+	<string>所需的谈话能力</string>
+	<key>Network Error</key>
+	<string>网络错误</string>
+	<key>Neutral</key>
+	<string>中立</string>
+	<key>New Account</key>
+	<string>新建帐户</string>
+	<key>New Ban</key>
+	<string>新封禁</string>
+	<key>New Channel</key>
+	<string>新建频道</string>
+	<key>New Email</key>
+	<string>新建电子邮件</string>
+	<key>New Folder</key>
+	<string>新建文件夹</string>
+	<key>New Identity</key>
+	<string>新标识</string>
+	<key>New Password</key>
+	<string>新密码</string>
+	<key>New Server</key>
+	<string>新建服务器</string>
+	<key>New Username</key>
+	<string>新用户名</string>
+	<key>New message from %@: %@</key>
+	<string>来自%@的新消息：%@</string>
+	<key>New message: %@</key>
+	<string>新消息：%@</string>
+	<key>Next</key>
+	<string>下一个</string>
+	<key>Nickname</key>
+	<string>昵称</string>
+	<key>Nicknames</key>
+	<string>昵称</string>
+	<key>No</key>
+	<string>拒绝</string>
+	<key>No Connections</key>
+	<string>无连接</string>
+	<key>No License</key>
+	<string>无许可证</string>
+	<key>No Message</key>
+	<string>无消息</string>
+	<key>No badges available</key>
+	<string>没有可用的徽章</string>
+	<key>No mail accounts configured on this device. Open in browser instead?</key>
+	<string>此设备上未配置邮件帐户。是否改为在浏览器中打开？</string>
+	<key>No reason given</key>
+	<string>没有给出原因</string>
+	<key>No server groups remaining.</key>
+	<string>没有剩余的服务器组。</string>
+	<key>Non-Profit License</key>
+	<string>非营利许可证</string>
+	<key>None</key>
+	<string>没有一个</string>
+	<key>Not Connected</key>
+	<string>未连接</string>
+	<key>Not Subscribed</key>
+	<string>未订阅</string>
+	<key>Notices</key>
+	<string>关于</string>
+	<key>Notification</key>
+	<string>通知</string>
+	<key>Notification Sounds</key>
+	<string>声音通知</string>
+	<key>OK</key>
+	<string>确定</string>
+	<key>OK, don't show again</key>
+	<string>确定，不再显示</string>
+	<key>Offline Messages</key>
+	<string>脱机消息</string>
+	<key>Okay</key>
+	<string>可以</string>
+	<key>Online Help</key>
+	<string>联机帮助</string>
+	<key>Only Custom Name</key>
+	<string>仅自定义名称</string>
+	<key>Only Nickname</key>
+	<string>只有昵称</string>
+	<key>Open Text Chat</key>
+	<string>打开文本聊天</string>
+	<key>Open in browser</key>
+	<string>在浏览器中打开</string>
+	<key>Optional</key>
+	<string>可选择</string>
+	<key>Overlay Errors</key>
+	<string>叠加错误</string>
+	<key>Overlay Private Messages</key>
+	<string>覆盖私人消息</string>
+	<key>Packet Loss</key>
+	<string>数据包丢失</string>
+	<key>Packets</key>
+	<string>数据包</string>
+	<key>Password</key>
+	<string>密码</string>
+	<key>Password Verification</key>
+	<string>密码验证</string>
+	<key>Password contains invalid characters</key>
+	<string>密码包含无效字符</string>
+	<key>Password edited successfully.</key>
+	<string>密码编辑成功。</string>
+	<key>Password is too long</key>
+	<string>密码太长</string>
+	<key>Password length %@ required</key>
+	<string>需要密码长度%@</string>
+	<key>Password strength: %@</key>
+	<string>密码强度：%@</string>
+	<key>Passworded</key>
+	<string>通行证</string>
+	<key>Passwords do not match</key>
+	<string>密码不匹配</string>
+	<key>Permanent</key>
+	<string>永久</string>
+	<key>Permissions</key>
+	<string>权限</string>
+	<key>Phonetic Name</key>
+	<string>拼音名称</string>
+	<key>Ping</key>
+	<string>Ping</string>
+	<key>Platform</key>
+	<string>平台</string>
+	<key>Please check you input</key>
+	<string>请检查您的输入</string>
+	<key>Please enter a valid email</key>
+	<string>请输入有效的电子邮件</string>
+	<key>Please enter a valid username</key>
+	<string>请输入有效的用户名</string>
+	<key>Poke</key>
+	<string>戳他一下</string>
+	<key>Preset</key>
+	<string>预设</string>
+	<key>Priority Speaker</key>
+	<string>优先扬声器</string>
+	<key>Privilege Key</key>
+	<string>特权密钥</string>
+	<key>Push-To-Talk</key>
+	<string>一键通</string>
+	<key>Push-To-Talk is required</key>
+	<string>需要按键通话</string>
+	<key>Push-To-Talk no longer required</key>
+	<string>不再需要按键通话</string>
+	<key>QUIT_MSG</key>
+	<string>离开</string>
+	<key>Quality</key>
+	<string>质量</string>
+	<key>Queries</key>
+	<string>查询</string>
+	<key>Quick Switch</key>
+	<string>快速切换</string>
+	<key>Quota</key>
+	<string>限额</string>
+	<key>RECORDING_CLIENT_NAME</key>
+	<string>***%@***[录制]</string>
+	<key>Read More...</key>
+	<string>阅读更多...</string>
+	<key>Reason</key>
+	<string>原因</string>
+	<key>Received Whispers</key>
+	<string>收到的密语</string>
+	<key>Reconnect</key>
+	<string>重新连接</string>
+	<key>Reconnecting might solve the issue.</key>
+	<string>重新连接可能会解决这个问题。</string>
+	<key>Reconnecting...</key>
+	<string>正在重新连接...</string>
+	<key>Recovery key</key>
+	<string>恢复密钥</string>
+	<key>Recovery key changed successfully.</key>
+	<string>恢复密钥更改成功。</string>
+	<key>Recovery key is invalid</key>
+	<string>恢复密钥无效</string>
+	<key>Redeem</key>
+	<string>兑换</string>
+	<key>Redeem Code</key>
+	<string>兑换码</string>
+	<key>Regular Expressions</key>
+	<string>正则表达式</string>
+	<key>Remove</key>
+	<string>删除</string>
+	<key>Remove Contact</key>
+	<string>删除联系人</string>
+	<key>Remove action:</key>
+	<string>删除操作：</string>
+	<key>Request Talk Power</key>
+	<string>请求通话电源</string>
+	<key>Requested Level</key>
+	<string>请求的级别</string>
+	<key>Requested Security Level</key>
+	<string>请求的安全级别</string>
+	<key>Resend verification</key>
+	<string>重新发送验证</string>
+	<key>Reserved Slots</key>
+	<string>保留插槽</string>
+	<key>Reset Confirmations</key>
+	<string>重置确认</string>
+	<key>Reset Key</key>
+	<string>重置键</string>
+	<key>Reset Password</key>
+	<string>重置密码</string>
+	<key>Reset Recovery Key</key>
+	<string>重置恢复密钥</string>
+	<key>Revoke Talk Power</key>
+	<string>撤销谈话权</string>
+	<key>STARTUP_MSG_MSG</key>
+	<string>此应用程序将很快被替换！</string>
+	<key>STARTUP_MSG_TITLE</key>
+	<string>**重要的**</string>
+	<key>STARTUP_MSG_URL</key>
+	<string>http://www.teamspeak.com/?page=ios_message&amp;lang=zh-CN</string>
+	<key>Save Channel Passwords</key>
+	<string>保存频道密码</string>
+	<key>Search</key>
+	<string>搜索</string>
+	<key>Search, Server Nickname or address</key>
+	<string>搜索，服务器昵称或地址</string>
+	<key>Security</key>
+	<string>安全</string>
+	<key>Security Level</key>
+	<string>安全级别</string>
+	<key>Select Channel</key>
+	<string>选择频道</string>
+	<key>Self</key>
+	<string>自己</string>
+	<key>Semi-Permanent</key>
+	<string>半永久</string>
+	<key>Send</key>
+	<string>发送</string>
+	<key>Send Crashreport to Developers</key>
+	<string>有一个调试文件可以帮助开发人员解决问题。是否要将该文件发送给开发人员？</string>
+	<key>Send by Email</key>
+	<string>通过电子邮件发送</string>
+	<key>Send myTeamSpeak ID</key>
+	<string>发送我的TeamSpeak ID</string>
+	<key>Sending your myTeamSpeak ID grants you access to features like Twitch integration and other services.</key>
+	<string>发送您的myTeamSpeak ID可以让您访问Twitch关联和其他服务等功能。</string>
+	<key>Server</key>
+	<string>服务器</string>
+	<key>Server Address</key>
+	<string>服务器地址</string>
+	<key>Server Connection Info</key>
+	<string>服务器连接信息</string>
+	<key>Server Details</key>
+	<string>服务器详细信息</string>
+	<key>Server Events</key>
+	<string>服务器消息</string>
+	<key>Server Groups</key>
+	<string>服务器组</string>
+	<key>Server Info</key>
+	<string>服务器信息</string>
+	<key>Server Name</key>
+	<string>服务器名称</string>
+	<key>Server Nickname</key>
+	<string>服务器昵称</string>
+	<key>Server Nickname or Address</key>
+	<string>服务器昵称或地址</string>
+	<key>Server Nickname, Address or IP of the TeamSpeak server</key>
+	<string>TeamSpeak服务器的服务器昵称、地址或IP</string>
+	<key>Server Nicknames</key>
+	<string>服务器昵称</string>
+	<key>Server Pass</key>
+	<string>服务器密码</string>
+	<key>Server Port</key>
+	<string>服务器端口</string>
+	<key>Server license could not be validated.</key>
+	<string>无法验证服务器许可证。</string>
+	<key>Server properties edited successfully</key>
+	<string>已成功编辑服务器属性</string>
+	<key>Server properties have been edited by UI_CLIENTMARKER</key>
+	<string>服务器属性已由UI_CLIENTMARKER编辑</string>
+	<key>Set Away Status</key>
+	<string>设置状态</string>
+	<key>Set Channel Group</key>
+	<string>设置频道组</string>
+	<key>Set Online Status</key>
+	<string>设置联机状态</string>
+	<key>Set Server Group</key>
+	<string>设置服务器组</string>
+	<key>Set maximum ban duration</key>
+	<string>设置最长封禁持续时间</string>
+	<key>Set maximum delete delay</key>
+	<string>设置最大删除延迟</string>
+	<key>Settings</key>
+	<string>设置</string>
+	<key>Show Message In Log</key>
+	<string>在日志中显示消息</string>
+	<key>Show Modal Message</key>
+	<string>显示模式消息</string>
+	<key>Show ServerQuery Clients</key>
+	<string>显示服务器查询</string>
+	<key>Show connection</key>
+	<string>显示连接</string>
+	<key>Sign Out</key>
+	<string>退出</string>
+	<key>Sort After</key>
+	<string>排序依据</string>
+	<key>Sound</key>
+	<string>声音</string>
+	<key>Sound Pack</key>
+	<string>声音包</string>
+	<key>Sound Packs</key>
+	<string>声音包</string>
+	<key>Speak New Messages</key>
+	<string>说出新消息</string>
+	<key>Speakers Disabled</key>
+	<string>扬声器已禁用</string>
+	<key>Speaking Rate</key>
+	<string>声音等级</string>
+	<key>Speech</key>
+	<string>演讲</string>
+	<key>Store this key in a safe place (external hard drive, USB key, printed hardcopy, etc) and keep it secret.</key>
+	<string>将此密钥存储在安全的地方（外部硬盘驱动器、USB密钥、打印的硬拷贝等）并保密。</string>
+	<key>Strong</key>
+	<string>坚强</string>
+	<key>Subscribe All</key>
+	<string>全部订阅</string>
+	<key>Subscribe To All Channels</key>
+	<string>订阅所有频道</string>
+	<key>Subscribe To Channel</key>
+	<string>订阅频道</string>
+	<key>Subscribed</key>
+	<string>已订阅</string>
+	<key>Subscription</key>
+	<string>订阅</string>
+	<key>Successfully renamed channel UI_CHANNELMARKER to UI_CHANNELMARKER</key>
+	<string>成功将频道UI_CHANNELMARKER重命名为UI_CHANNALMARKEr</string>
+	<key>Switch To Channel</key>
+	<string>加入频道</string>
+	<key>Sync Collisions</key>
+	<string>同步冲突</string>
+	<key>Sync existing content</key>
+	<string>同步现有内容</string>
+	<key>Sync related features are unavailable at the moment. Please enter the password for your current account.</key>
+	<string>同步相关功能目前不可用。请输入您当前帐户的密码。</string>
+	<key>Synchronization</key>
+	<string>同步</string>
+	<key>Synchronization needs to be activated in order to customize badges.</key>
+	<string>需要激活同步才能自定义徽章。</string>
+	<key>Synchronize all bookmarks and identities that are already on your device.</key>
+	<string>同步设备上已存在的所有书签和标识。</string>
+	<key>Synchronize new items</key>
+	<string>同步新项目</string>
+	<key>Synchronized</key>
+	<string>已同步</string>
+	<key>System</key>
+	<string>系统</string>
+	<key>Talk power granted by UI_CLIENTMARKER</key>
+	<string>UI_CLIENTMARKER 授予的通话权限</string>
+	<key>Talk power revoked by UI_CLIENTMARKER</key>
+	<string>UI_CLIENTMARKER 撤销通话权限</string>
+	<key>TeamSpeak Server</key>
+	<string>TeamSpeak服务器</string>
+	<key>Temporary</key>
+	<string>临时</string>
+	<key>Temporary Passwords</key>
+	<string>临时密码</string>
+	<key>The TeamSpeak server could not validate your myTeamSpeak ID. Some myTeamSpeak related services are not available.</key>
+	<string>TeamSpeak服务器无法验证您的myTeamSpeak ID。某些与myTeamSpeake相关的服务不可用。</string>
+	<key>The TeamSpeak server version is outdated. Please contact your hoster to update the server.</key>
+	<string>TeamSpeak服务器版本已过时。请与您的主机管理员联系以更新服务器。</string>
+	<key>The all new chat system from TeamSpeak 5 servers is not yet supported.</key>
+	<string>TeamSpeak 5服务器上的全新聊天系统尚未得到支持。</string>
+	<key>The code you have entered is invalid.</key>
+	<string>您输入的代码无效。</string>
+	<key>The server has been shut down.</key>
+	<string>服务器已关闭。</string>
+	<key>There are no clients in this channel. Changing it to temporary will delete it after %@. Do you want to change the channel to temporary?</key>
+	<string>此频道中没有客户端。将其更改为临时将在%@之后删除。是否要将频道更改为临时频道？</string>
+	<key>There are no clients in this channel. Changing it to temporary will delete it. Do you want to change the channel to temporary?</key>
+	<string>此频道中没有客户端。将其更改为临时频道会将其删除。是否将频道更改为临时？</string>
+	<key>This Month</key>
+	<string>本月</string>
+	<key>This ServerQuery client did not register for the private text message event using "servernotifyregister event=textprivate". The text message was not received</key>
+	<string>此ServerQuery客户端未使用“servernotifyregister event=textprivate”注册专用文本消息事件。未收到短信</string>
+	<key>This TeamSpeak server is blacklisted.</key>
+	<string>此TeamSpeak服务器已列入黑名单。</string>
+	<key>This TeamSpeak server seems to be using an invalid license.</key>
+	<string>此TeamSpeak服务器似乎使用了无效的许可证。</string>
+	<key>This combines the Automatic Mode with a Volume Gate, using a slider to further adjust when you start transmitting.</key>
+	<string>这将自动模式与音量门相结合，使用滑块在开始传输时进行进一步调整。</string>
+	<key>This is your recovery key used for the encryption of your data. It is required to recover your data if you ever forget your account password.</key>
+	<string>这是用于加密数据的恢复密钥。如果您忘记了帐户密码，则需要恢复您的数据。</string>
+	<key>This is your username for your My Teamspeak account, you are still able to change your username in TS at any time.</key>
+	<string>这是您的myTeamSpeak帐户的用户名，您仍然可以随时更改您的用户名。</string>
+	<key>This will generate a new recovery key and invalidate your previous one.</key>
+	<string>这将生成一个新的恢复密钥，并使您以前的密钥失效。</string>
+	<key>Tools</key>
+	<string>工具</string>
+	<key>Topic</key>
+	<string>话题</string>
+	<key>Total</key>
+	<string>全部</string>
+	<key>Try to apply decision to all collisions</key>
+	<string>尝试将决策应用于所有碰撞</string>
+	<key>Trying to connect to server [b]%@[/b]</key>
+	<string>正在尝试连接到服务器[b]%@[/b]</string>
+	<key>Trying to resolve hostname [b]%@[/b]</key>
+	<string>正在尝试解析主机名[b]%@[/b]</string>
+	<key>Type</key>
+	<string>类型</string>
+	<key>UI_CLIENTMARKER appears, coming from channel UI_CHANNELMARKER</key>
+	<string>UI_CLIENTMARKER 出现，来自频道 UI_CHANNELMARKER</string>
+	<key>UI_CLIENTMARKER appears, was kicked from channel UI_CHANNELMARKER by UI_CLIENTMARKER</key>
+	<string>UI_CLIENTMARKER 出现，被 UI_CLIENTMARKER 从频道 UI_CHANNELMARKER 踢出</string>
+	<key>UI_CLIENTMARKER appears, was kicked from channel UI_CHANNELMARKER by UI_CLIENTMARKER (%@)</key>
+	<string>UI_CLIENTMARKER 出现，被 UI_CLIENTMARKER 从频道 UI_CHANNELMARKER 踢出（%@）</string>
+	<key>UI_CLIENTMARKER appears, was moved from channel UI_CHANNELMARKER by UI_CLIENTMARKER</key>
+	<string>UI_CLIENTMARKER 出现，由UI_CLIENTMARKER 从频道 UI_CHANNELMARKER 中移动</string>
+	<key>UI_CLIENTMARKER connected to channel UI_CHANNELMARKER</key>
+	<string>UI_CLIENTMARKER 连接到频道 UI_CHANNELMARKER</string>
+	<key>UI_CLIENTMARKER disconnected (%@)</key>
+	<string>UI_CLIENTMARKER 已断开连接（%@）</string>
+	<key>UI_CLIENTMARKER dropped (%@)</key>
+	<string>UI_CLIENTMARKER 已删除（%@）</string>
+	<key>UI_CLIENTMARKER left heading to channel UI_CHANNELMARKER</key>
+	<string>UI_CLIENTMARKER向左航向频道UI_CHANNELMARKER</string>
+	<key>UI_CLIENTMARKER left, was moved to channel UI_CHANNELMARKER by UI_CLIENTMARKER</key>
+	<string>UI_CLIENTMARKER左，被 UI_CLIENTMARKER 移到频道 UI_CHANNELMARKER</string>
+	<key>UI_CLIENTMARKER left: was kicked to channel UI_CHANNELMARKER by UI_CLIENTMARKER</key>
+	<string>UI_CLIENTMARKER左：被 UI_CLIENTMARKER 踢到频道 UI_CHANNELMARKER</string>
+	<key>UI_CLIENTMARKER left: was kicked to channel UI_CHANNELMARKER by UI_CLIENTMARKER (%@)</key>
+	<string>UI_CLIENTMARKER left：被 UI_CLIENTMARKER 踢到频道 UI_CHANNELMARKER（%@）</string>
+	<key>UI_CLIENTMARKER pokes you</key>
+	<string>UI_CLIENTMARKER 戳了一下你</string>
+	<key>UI_CLIENTMARKER pokes you with message: %@</key>
+	<string>UI_CLIENTMARKER 用消息戳了下您：%@</string>
+	<key>UI_CLIENTMARKER rejoined chat.</key>
+	<string>UI_CLIENTMARKER 重新加入聊天。</string>
+	<key>UI_CLIENTMARKER requested talk power at %@</key>
+	<string>UI_CLIENTMARKER 在 %@ 请求说话</string>
+	<key>UI_CLIENTMARKER requested talk power at %@, Reason: "%@"</key>
+	<string>UI_CLIENTMARKER 在 %@ 请求说话，原因：“%@”</string>
+	<key>UI_CLIENTMARKER switched from channel UI_CHANNELMARKER to UI_CHANNELMARKER</key>
+	<string>UI_CLIENTMARKER 从频道 UI_CHANNELMARKER 切换到 UI_CHANnellMARKER</string>
+	<key>UI_CLIENTMARKER was added to server group "%@" by UI_CLIENTMARKER</key>
+	<string>UI_CLIENTMARKER 已将 UI_CLIENTMARKER 添加到服务器组“%@”</string>
+	<key>UI_CLIENTMARKER was banned %@%@ from the server by UI_CLIENTMARKER (%@)</key>
+	<string>UI_CLIENTMARKER 已被 UI_CLIENTMARKER（%@）从服务器上禁止 %@%@</string>
+	<key>UI_CLIENTMARKER was banned from server by UI_CLIENTMARKER (%@)</key>
+	<string>UI_CLIENTMARKER 已从服务器上禁止UI_CLIENTMARKER（%@）</string>
+	<key>UI_CLIENTMARKER was kicked from channel UI_CHANNELMARKER by UI_CLIENTMARKER</key>
+	<string>UI_CLIENTMARKER 被 UI_CLIENTMARKER 从频道 UI_CHANNELMARKER 踢出</string>
+	<key>UI_CLIENTMARKER was kicked from channel UI_CHANNELMARKER by UI_CLIENTMARKER (%@)</key>
+	<string>UI_CLIENTMARKER 被 UI_CLIENTMARKER 从频道 UI_CHANNELMARKER 踢出（%@）</string>
+	<key>UI_CLIENTMARKER was kicked from the server by UI_CLIENTMARKER (%@)</key>
+	<string>UI_CLIENTMARKER 被 UI_CLIENTMARKER 从服务器上踢出（%@）</string>
+	<key>UI_CLIENTMARKER was moved from channel UI_CHANNELMARKER to UI_CHANNELMARKER by UI_CLIENTMARKER</key>
+	<string>UI_CLIENTMARKER 从频道 UI_CHANNELMARKER 移动到 UI_CHANNELMARKER</string>
+	<key>UI_CLIENTMARKER was removed from server group "%@" by UI_CLIENTMARKER</key>
+	<string>UI_CLIENTMARKER 已从服务器组“%@”中删除 UI_CLIENTMARKER</string>
+	<key>Unable to Connect</key>
+	<string>无法连接</string>
+	<key>Unable to decrypt your data</key>
+	<string>无法解密您的数据</string>
+	<key>Unable to send message</key>
+	<string>无法发送消息</string>
+	<key>Unable to send message, offline messaging not currently supported.</key>
+	<string>无法发送消息，当前不支持脱机消息。</string>
+	<key>Unencrypted</key>
+	<string>未加密</string>
+	<key>Uninstall</key>
+	<string>卸载</string>
+	<key>Unique ID</key>
+	<string>唯一ID</string>
+	<key>Unknown Collision</key>
+	<string>未知碰撞</string>
+	<key>Unknown error</key>
+	<string>未知错误</string>
+	<key>Unknown error occurred</key>
+	<string>发生未知错误</string>
+	<key>Unlimited</key>
+	<string>无限</string>
+	<key>Unmute</key>
+	<string>取消静音</string>
+	<key>Unmute Mic</key>
+	<string>取消麦克风静音</string>
+	<key>Unmute Speakers</key>
+	<string>取消扬声器静音</string>
+	<key>Unnamed Folder</key>
+	<string>未命名文件夹</string>
+	<key>Unsubscribe From All Channels</key>
+	<string>从所有频道取消订阅</string>
+	<key>Unsubscribe From Channel</key>
+	<string>取消订阅频道</string>
+	<key>Update your TeamSpeak app to continue using sync related features.</key>
+	<string>更新TeamSpeak应用程序以继续使用同步相关功能。</string>
+	<key>Uptime</key>
+	<string>正常运行时间</string>
+	<key>Use Privilege Key</key>
+	<string>使用特权密钥</string>
+	<key>User Metrics</key>
+	<string>使用者评价</string>
+	<key>Username</key>
+	<string>用户名</string>
+	<key>Username already taken</key>
+	<string>用户名已被占用</string>
+	<key>Username contains invalid character</key>
+	<string>用户名包含无效字符</string>
+	<key>Username edited successfully.</key>
+	<string>已成功编辑用户名。</string>
+	<key>Username is invalid</key>
+	<string>用户名无效</string>
+	<key>Uses intelligent algorithms to determine that your input signal contains speech.</key>
+	<string>使用智能算法来确定您的输入信号是否包含语音。</string>
+	<key>VOICE_MODE_CHANGED_RECEIVER</key>
+	<string>语音模式已更改为语音激活，因为音频已输出到接收器。</string>
+	<key>Valid myTS ID required.</key>
+	<string>需要有效的myTS ID。</string>
+	<key>Version</key>
+	<string>版本</string>
+	<key>View</key>
+	<string>查看</string>
+	<key>View Copyright Info</key>
+	<string>查看版权信息</string>
+	<key>View FAQ Online</key>
+	<string>在线查看常见问题解答</string>
+	<key>View Tutorial Online</key>
+	<string>在线查看教程</string>
+	<key>Voice</key>
+	<string>语音</string>
+	<key>Voice Activated</key>
+	<string>语音激活</string>
+	<key>Voice Activation Level</key>
+	<string>语音激活级别</string>
+	<key>Voice Activation Warning</key>
+	<string>语音激活警告</string>
+	<key>Voice Desktop</key>
+	<string>语音桌面</string>
+	<key>Voice Encryption</key>
+	<string>语音加密</string>
+	<key>Voice Mobile</key>
+	<string>语音移动</string>
+	<key>Voice Mode</key>
+	<string>语音模式</string>
+	<key>Volume</key>
+	<string>音量</string>
+	<key>Volume Gate</key>
+	<string>音量等级</string>
+	<key>We updated our myTeamSpeak services</key>
+	<string>我们更新了myTeamSpeak服务</string>
+	<key>Weak</key>
+	<string>弱</string>
+	<key>Welcome Message</key>
+	<string>欢迎信息</string>
+	<key>Whisper</key>
+	<string>密语</string>
+	<key>Whisper Notifications</key>
+	<string>密语通知</string>
+	<key>Yes</key>
+	<string>确定</string>
+	<key>You are Logged in</key>
+	<string>您已登录</string>
+	<key>You are about to open an external link to: %@
+
+TeamSpeak cannot verify nor be held liable for the content. Be cautious when visiting websites and/or downloading files from unknown sources.</key>
+	<string>您将打开一个外部链接到：%@
+
+TeamSpeak无法验证内容，也不承担任何责任。访问网站和/或从未知来源下载文件时要小心。</string>
+	<key>You are attempting to chat with a ServerQuery client. Please note that text messages will only be received if the ServerQuery registered for the private text messages event with "servernotifyregister event=textprivate".</key>
+	<string>您正试图与ServerQuery客户端聊天。请注意，只有当ServerQuery使用“servernotifyregister event=textprivate”注册了专用文本消息事件时，才会接收到文本消息。</string>
+	<key>You are banned permanently. Reason: %@</key>
+	<string>你将被永久禁止。原因: %@</string>
+	<key>You are banned temporarily. Reason: %@ Try again in %@</key>
+	<string>你被暂时禁止。原因：%@请在%@后重试</string>
+	<key>You are connecting to a TeamSpeak server that seems to be using an invalid license.</key>
+	<string>您正在连接的TeamSpeak服务器似乎使用了无效的许可证。</string>
+	<key>You are currently offline.</key>
+	<string>您当前处于脱机状态。</string>
+	<key>You are now known as %@</key>
+	<string>您现在被称为“%@”</string>
+	<key>You can only improve the security level of one identity at a time.</key>
+	<string>一次只能提高一个身份的安全级别。</string>
+	<key>You have connected to a TeamSpeak server that seems to be using an invalid license.</key>
+	<string>您连接到的TeamSpeak服务器似乎使用了无效的许可证。</string>
+	<key>You have successfully redeemed your badge.</key>
+	<string>您已成功兑换徽章。</string>
+	<key>You have this badge already.</key>
+	<string>你已经有了这个徽章。</string>
+	<key>You need to agree to the Terms and Conditions to use this app. Do you want to exit now?</key>
+	<string>您需要同意条款和条件才能使用此应用程序。你想现在退出吗？</string>
+	<key>You poked UI_CLIENTMARKER</key>
+	<string>您戳了一下 UI_CLIENTMARKER</string>
+	<key>You poked UI_CLIENTMARKER with message: %@</key>
+	<string>您戳了一下 UI_CLIENTMARKER，消息为：%@</string>
+	<key>You switched from channel UI_CHANNELMARKER to UI_CHANNELMARKER</key>
+	<string>您已从频道 UI_CHANNELMARKER 切换到频道 UI_CHANNELMARKER</string>
+	<key>You were banned %@%@ from the server "%@" by "%@" (%@)</key>
+	<string>您被“%@”（%@）禁止%@%@访问服务器“%@</string>
+	<key>You were banned from the server "%@" by "%@" (%@)</key>
+	<string>您已被“%@”（%@）禁止使用服务器“%@</string>
+	<key>You were kicked from channel UI_CHANNELMARKER by UI_CLIENTMARKER [%@]</key>
+	<string>你被 UI_CLIENTMARKER [%@]踢出频道 UI_CHANNELMARKER</string>
+	<key>You were kicked from the server "%@" by "%@" [%@]</key>
+	<string>你被“%@”[%@]踢出服务器“%@</string>
+	<key>You were moved from UI_CHANNELMARKER to UI_CHANNELMARKER by UI_CLIENTMARKER</key>
+	<string>您已由 UI_CLIENTMARKER 从 UI_CHANNELMARKER 移动到 UI_CHANNELMARKER</string>
+	<key>Your Avatar was deleted</key>
+	<string>你的头像已被删除</string>
+	<key>Your chat partner has disconnected.</key>
+	<string>您的聊天伙伴已断开连接。</string>
+	<key>Your client is too old to connect to this server. Please download a newer version from the App Store</key>
+	<string>您的客户端太旧，无法连接到此服务器。请从应用商店下载新版本</string>
+	<key>add_item</key>
+	<string>添加项目</string>
+	<key>cloud</key>
+	<string>云</string>
+	<key>copy to clipboard</key>
+	<string>复制到剪贴板</string>
+	<key>day</key>
+	<string>天</string>
+	<key>day(s)</key>
+	<string>天</string>
+	<key>days</key>
+	<string>天</string>
+	<key>delete_item_locally</key>
+	<string>本地删除项目</string>
+	<key>do_not_delete_item_locally</key>
+	<string>不要在本地删除项目</string>
+	<key>for</key>
+	<string>给</string>
+	<key>hour</key>
+	<string>小时</string>
+	<key>hour(s)</key>
+	<string>小时</string>
+	<key>hours</key>
+	<string>小时</string>
+	<key>local</key>
+	<string>本地</string>
+	<key>minute</key>
+	<string>分钟</string>
+	<key>minute(s)</key>
+	<string>分钟</string>
+	<key>minutes</key>
+	<string>分钟</string>
+	<key>move_to_local_item</key>
+	<string>移动到本地项目</string>
+	<key>myTeamSpeak</key>
+	<string>myTeamSpeak</string>
+	<key>myTeamSpeak session expired</key>
+	<string>myTeamSpeak会话已过期</string>
+	<key>second</key>
+	<string>秒</string>
+	<key>second(s)</key>
+	<string>秒</string>
+	<key>seconds</key>
+	<string>秒</string>
+	<key>unknown_option</key>
+	<string>未知选项</string>
+	<key>use_local_item</key>
+	<string>使用本地项目</string>
+	<key>use_remote_item</key>
+	<string>使用远程项目</string>
+	<key>year</key>
+	<string>年</string>
+	<key>years</key>
+	<string>年</string>
+</dict>
+</plist>

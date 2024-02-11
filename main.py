@@ -44,10 +44,7 @@ def main():
     info_plist = load_plist(infoPlist)
 
     for key, value in info_plist.items():
-        if key in translation:
-            info_plist[key] = translation[key]
-        else:
-            translation[key] = value
+        info_plist[key] = translation[key]
 
     for key, value in localizable_plist.items():
         localizable_plist[key] = translation[key]
